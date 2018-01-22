@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: c11626b463c4d3249bbbcb9660bf8cc8
+timeCreated: 1478496506
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: body_no_callsigns
+    100004: Helicopter
+    100006: //RootNode
+    100008: main_rotor
+    100010: main_rotor 1
+    100012: main_rotor_no_blades
+    100014: tail_rotor
+    100016: tail_rotor 1
+    100018: tail_rotor_no_blades
+    400000: body
+    400002: body_no_callsigns
+    400004: Helicopter
+    400006: //RootNode
+    400008: main_rotor
+    400010: main_rotor 1
+    400012: main_rotor_no_blades
+    400014: tail_rotor
+    400016: tail_rotor 1
+    400018: tail_rotor_no_blades
+    2300000: body
+    2300002: body_no_callsigns
+    2300004: main_rotor
+    2300006: main_rotor 1
+    2300008: main_rotor_no_blades
+    2300010: tail_rotor
+    2300012: tail_rotor 1
+    2300014: tail_rotor_no_blades
+    3300000: body
+    3300002: body_no_callsigns
+    3300004: main_rotor
+    3300006: main_rotor 1
+    3300008: main_rotor_no_blades
+    3300010: tail_rotor
+    3300012: tail_rotor 1
+    3300014: tail_rotor_no_blades
+    4300000: main_rotor
+    4300002: tail_rotor
+    4300004: body
+    4300006: main_rotor_no_blades
+    4300008: tail_rotor_no_blades
+    4300010: body_no_callsigns
+    4300012: main_rotor
+    4300014: tail_rotor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

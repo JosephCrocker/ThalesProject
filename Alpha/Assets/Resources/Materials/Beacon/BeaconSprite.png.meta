@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 5aec0160f315f9c4e9b237a70cf4ed35
+timeCreated: 1471330728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BeaconSprite_0
+    21300002: BeaconSprite_1
+    21300004: BeaconSprite_2
+    21300006: BeaconSprite_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BeaconSprite_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 713
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 55.5}
+        - {x: -55.5, y: 30.5}
+        - {x: -55.5, y: -55.5}
+        - {x: 42.5, y: -55.5}
+        - {x: 55.5, y: -51.5}
+        - {x: 55.5, y: 23.5}
+        - {x: 50.5, y: 40.5}
+        - {x: 24.5, y: 55.5}
+      - - {x: -43.5, y: 8.5}
+        - {x: -26.5, y: 36.5}
+        - {x: 15.5, y: 43.5}
+        - {x: 42.5, y: -14.5}
+    - name: BeaconSprite_1
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 669
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 99}
+        - {x: -99, y: 95}
+        - {x: -99, y: -99}
+        - {x: 97, y: -99}
+        - {x: 99, y: -95}
+        - {x: 99, y: 52}
+        - {x: 80, y: 99}
+      - - {x: -54, y: -59}
+        - {x: -18, y: 81}
+        - {x: 80, y: 8}
+        - {x: 54, y: -59}
+    - name: BeaconSprite_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 110
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: 97}
+        - {x: 73, y: 147}
+        - {x: -127, y: 147}
+        - {x: -147, y: 85}
+        - {x: -147, y: -104}
+        - {x: -113, y: -147}
+        - {x: 97, y: -147}
+        - {x: 132, y: -120}
+        - {x: 147, y: -64}
+        - {x: 147, y: 79}
+      - - {x: -76, y: -92}
+        - {x: -114, y: -38}
+        - {x: -98, y: 74}
+        - {x: -42, y: 114}
+        - {x: 55, y: 111}
+        - {x: 99, y: 74}
+        - {x: 117, y: 29}
+        - {x: 110, y: -45}
+        - {x: 79, y: -88}
+        - {x: 9, y: -119}
+    - name: BeaconSprite_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 36
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 220, y: -66}
+        - {x: 220, y: 75}
+        - {x: 182, y: 139}
+        - {x: 148, y: 176}
+        - {x: 93, y: 211}
+        - {x: 57, y: 220}
+        - {x: -64, y: 220}
+        - {x: -104, y: 211}
+        - {x: -192, y: 143}
+        - {x: -220, y: 70}
+        - {x: -220, y: -57}
+        - {x: -209, y: -102}
+        - {x: -158, y: -172}
+        - {x: -94, y: -210}
+        - {x: -58, y: -220}
+        - {x: 60, y: -220}
+        - {x: 89, y: -211}
+        - {x: 130, y: -190}
+        - {x: 189, y: -139}
+      - - {x: -39, y: -171}
+        - {x: -84, y: -156}
+        - {x: -125, y: -127}
+        - {x: -170, y: -63}
+        - {x: -182, y: -10}
+        - {x: -177, y: 44}
+        - {x: -137, y: 126}
+        - {x: -78, y: 169}
+        - {x: -31, y: 184}
+        - {x: 11, y: 186}
+        - {x: 77, y: 169}
+        - {x: 118, y: 142}
+        - {x: 146, y: 114}
+        - {x: 159, y: 85}
+        - {x: 182, y: 19}
+        - {x: 162, y: -70}
+        - {x: 116, y: -130}
+        - {x: 52, y: -170}
+        - {x: 13, y: -176}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

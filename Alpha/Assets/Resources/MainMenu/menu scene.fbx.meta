@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: e3dc66a68c661b9419574309c9adb644
+timeCreated: 1486600674
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_back
+    100002: arm_front
+    100004: arm_outer
+    100006: arm_outer 1
+    100008: arms
+    100010: audio_jack
+    100012: audio_jack 1
+    100014: audio_jack_cable
+    100016: backgroud_image
+    100018: base
+    100020: base 1
+    100022: base 2
+    100024: base 3
+    100026: bolt
+    100028: bolt 1
+    100030: buttons
+    100032: cable
+    100034: cable 1
+    100036: cable_splitter
+    100038: clip
+    100040: clip_inner
+    100042: clip_inner 1
+    100044: clip_outer
+    100046: clip_outer 1
+    100048: cup
+    100050: cup 1
+    100052: ear_left
+    100054: ear_right
+    100056: folder
+    100058: handle
+    100060: headset
+    100062: hinge
+    100064: hinge2
+    100066: joint
+    100068: keyboard
+    100070: knob
+    100072: light
+    100074: light 1
+    100076: liquid
+    100078: manila_folder
+    100080: //RootNode
+    100082: mic
+    100084: mic_jack
+    100086: mic_jack 1
+    100088: mic_jack_cable
+    100090: microphone
+    100092: microphone 1
+    100094: mouse1
+    100096: mouse2
+    100098: mouse_wheel
+    100100: mug
+    100102: mug 1
+    100104: pad
+    100106: pad 1
+    100108: paper
+    100110: paper_clip1
+    100112: paper_clip2
+    100114: paper_clip3
+    100116: paper_left_1
+    100118: paper_left_2
+    100120: paper_left_3
+    100122: paper_right_1
+    100124: paper_right_2
+    100126: paper_right_3
+    100128: paper_right_4
+    100130: paper_right_5
+    100132: paperclips
+    100134: pCube4
+    100136: pCube5
+    100138: pCube6
+    100140: pCube7
+    100142: pCube8
+    100144: pCube9
+    100146: pCylinder1
+    100148: pCylinder2
+    100150: pCylinder3
+    100152: pCylinder4
+    100154: pen
+    100156: pen 1
+    100158: phone
+    100160: phone_system
+    100162: Pilot_Wings
+    100164: pin
+    100166: pPlane10
+    100168: pPlane10 1
+    100170: pPlane11
+    100172: pPlane11 1
+    100174: pPlane12
+    100176: pPlane12 1
+    100178: pPlane13
+    100180: pPlane13 1
+    100182: pPlane14
+    100184: pPlane14 1
+    100186: pPlane15
+    100188: pPlane15 1
+    100190: pPlane16
+    100192: pPlane16 1
+    100194: pPlane17
+    100196: pPlane17 1
+    100198: pPlane18
+    100200: pPlane18 1
+    100202: pPlane19
+    100204: pPlane19 1
+    100206: pPlane2
+    100208: pPlane2 1
+    100210: pPlane20
+    100212: pPlane21
+    100214: pPlane22
+    100216: pPlane23
+    100218: pPlane24
+    100220: pPlane3
+    100222: pPlane3 1
+    100224: pPlane4
+    100226: pPlane4 1
+    100228: pPlane5
+    100230: pPlane5 1
+    100232: pPlane6
+    100234: pPlane6 1
+    100236: pPlane7
+    100238: pPlane7 1
+    100240: pPlane8
+    100242: pPlane8 1
+    100244: pPlane9
+    100246: pPlane9 1
+    100248: root
+    100250: root 1
+    100252: screen
+    100254: screen 1
+    100256: screen 2
+    100258: screen 3
+    100260: screen 4
+    100262: screen 5
+    100264: screen1
+    100266: screen2
+    100268: shield2
+    100270: single_screen
+    100272: speaker
+    100274: splitter
+    100276: stand
+    100278: stand 1
+    100280: stand 2
+    100282: stem
+    100284: stem 1
+    100286: stem 2
+    100288: stem_lamp
+    100290: stem_lamp1
+    100292: table_top
+    100294: table_top1
+    100296: windows
+    100298: wing
+    100300: wing3
+    400000: arm_back
+    400002: arm_front
+    400004: arm_outer
+    400006: arm_outer 1
+    400008: arms
+    400010: audio_jack
+    400012: audio_jack 1
+    400014: audio_jack_cable
+    400016: backgroud_image
+    400018: base
+    400020: base 1
+    400022: base 2
+    400024: base 3
+    400026: bolt
+    400028: bolt 1
+    400030: buttons
+    400032: cable
+    400034: cable 1
+    400036: cable_splitter
+    400038: clip
+    400040: clip_inner
+    400042: clip_inner 1
+    400044: clip_outer
+    400046: clip_outer 1
+    400048: cup
+    400050: cup 1
+    400052: ear_left
+    400054: ear_right
+    400056: folder
+    400058: handle
+    400060: headset
+    400062: hinge
+    400064: hinge2
+    400066: joint
+    400068: keyboard
+    400070: knob
+    400072: light
+    400074: light 1
+    400076: liquid
+    400078: manila_folder
+    400080: //RootNode
+    400082: mic
+    400084: mic_jack
+    400086: mic_jack 1
+    400088: mic_jack_cable
+    400090: microphone
+    400092: microphone 1
+    400094: mouse1
+    400096: mouse2
+    400098: mouse_wheel
+    400100: mug
+    400102: mug 1
+    400104: pad
+    400106: pad 1
+    400108: paper
+    400110: paper_clip1
+    400112: paper_clip2
+    400114: paper_clip3
+    400116: paper_left_1
+    400118: paper_left_2
+    400120: paper_left_3
+    400122: paper_right_1
+    400124: paper_right_2
+    400126: paper_right_3
+    400128: paper_right_4
+    400130: paper_right_5
+    400132: paperclips
+    400134: pCube4
+    400136: pCube5
+    400138: pCube6
+    400140: pCube7
+    400142: pCube8
+    400144: pCube9
+    400146: pCylinder1
+    400148: pCylinder2
+    400150: pCylinder3
+    400152: pCylinder4
+    400154: pen
+    400156: pen 1
+    400158: phone
+    400160: phone_system
+    400162: Pilot_Wings
+    400164: pin
+    400166: pPlane10
+    400168: pPlane10 1
+    400170: pPlane11
+    400172: pPlane11 1
+    400174: pPlane12
+    400176: pPlane12 1
+    400178: pPlane13
+    400180: pPlane13 1
+    400182: pPlane14
+    400184: pPlane14 1
+    400186: pPlane15
+    400188: pPlane15 1
+    400190: pPlane16
+    400192: pPlane16 1
+    400194: pPlane17
+    400196: pPlane17 1
+    400198: pPlane18
+    400200: pPlane18 1
+    400202: pPlane19
+    400204: pPlane19 1
+    400206: pPlane2
+    400208: pPlane2 1
+    400210: pPlane20
+    400212: pPlane21
+    400214: pPlane22
+    400216: pPlane23
+    400218: pPlane24
+    400220: pPlane3
+    400222: pPlane3 1
+    400224: pPlane4
+    400226: pPlane4 1
+    400228: pPlane5
+    400230: pPlane5 1
+    400232: pPlane6
+    400234: pPlane6 1
+    400236: pPlane7
+    400238: pPlane7 1
+    400240: pPlane8
+    400242: pPlane8 1
+    400244: pPlane9
+    400246: pPlane9 1
+    400248: root
+    400250: root 1
+    400252: screen
+    400254: screen 1
+    400256: screen 2
+    400258: screen 3
+    400260: screen 4
+    400262: screen 5
+    400264: screen1
+    400266: screen2
+    400268: shield2
+    400270: single_screen
+    400272: speaker
+    400274: splitter
+    400276: stand
+    400278: stand 1
+    400280: stand 2
+    400282: stem
+    400284: stem 1
+    400286: stem 2
+    400288: stem_lamp
+    400290: stem_lamp1
+    400292: table_top
+    400294: table_top1
+    400296: windows
+    400298: wing
+    400300: wing3
+    2300000: arm_back
+    2300002: arm_front
+    2300004: arm_outer
+    2300006: arm_outer 1
+    2300008: audio_jack 1
+    2300010: audio_jack_cable
+    2300012: backgroud_image
+    2300014: base
+    2300016: base 1
+    2300018: base 2
+    2300020: base 3
+    2300022: bolt
+    2300024: bolt 1
+    2300026: cable 1
+    2300028: clip
+    2300030: clip_inner
+    2300032: clip_inner 1
+    2300034: clip_outer
+    2300036: clip_outer 1
+    2300038: cup
+    2300040: cup 1
+    2300042: handle
+    2300044: hinge
+    2300046: hinge2
+    2300048: joint
+    2300050: keyboard
+    2300052: knob
+    2300054: light
+    2300056: light 1
+    2300058: liquid
+    2300060: manila_folder
+    2300062: mic
+    2300064: mic_jack 1
+    2300066: mic_jack_cable
+    2300068: microphone 1
+    2300070: mouse1
+    2300072: mouse_wheel
+    2300074: mug 1
+    2300076: pad
+    2300078: pad 1
+    2300080: paper_clip1
+    2300082: paper_clip2
+    2300084: paper_clip3
+    2300086: paper_left_1
+    2300088: paper_left_2
+    2300090: paper_left_3
+    2300092: paper_right_1
+    2300094: paper_right_2
+    2300096: paper_right_3
+    2300098: paper_right_4
+    2300100: paper_right_5
+    2300102: pCube4
+    2300104: pCube5
+    2300106: pCube6
+    2300108: pCube7
+    2300110: pCube8
+    2300112: pCube9
+    2300114: pCylinder1
+    2300116: pCylinder2
+    2300118: pCylinder3
+    2300120: pCylinder4
+    2300122: pen 1
+    2300124: phone
+    2300126: pPlane10
+    2300128: pPlane10 1
+    2300130: pPlane11
+    2300132: pPlane11 1
+    2300134: pPlane12
+    2300136: pPlane12 1
+    2300138: pPlane13
+    2300140: pPlane13 1
+    2300142: pPlane14
+    2300144: pPlane14 1
+    2300146: pPlane15
+    2300148: pPlane15 1
+    2300150: pPlane16
+    2300152: pPlane16 1
+    2300154: pPlane17
+    2300156: pPlane17 1
+    2300158: pPlane18
+    2300160: pPlane18 1
+    2300162: pPlane19
+    2300164: pPlane19 1
+    2300166: pPlane2
+    2300168: pPlane2 1
+    2300170: pPlane20
+    2300172: pPlane21
+    2300174: pPlane22
+    2300176: pPlane23
+    2300178: pPlane24
+    2300180: pPlane3
+    2300182: pPlane3 1
+    2300184: pPlane4
+    2300186: pPlane4 1
+    2300188: pPlane5
+    2300190: pPlane5 1
+    2300192: pPlane6
+    2300194: pPlane6 1
+    2300196: pPlane7
+    2300198: pPlane7 1
+    2300200: pPlane8
+    2300202: pPlane8 1
+    2300204: pPlane9
+    2300206: pPlane9 1
+    2300208: root
+    2300210: root 1
+    2300212: screen 1
+    2300214: screen 2
+    2300216: screen 3
+    2300218: screen 4
+    2300220: screen 5
+    2300222: shield2
+    2300224: speaker
+    2300226: splitter
+    2300228: stand
+    2300230: stand 1
+    2300232: stand 2
+    2300234: stem
+    2300236: stem 1
+    2300238: stem 2
+    2300240: table_top
+    2300242: table_top1
+    3300000: arm_back
+    3300002: arm_front
+    3300004: arm_outer
+    3300006: arm_outer 1
+    3300008: audio_jack 1
+    3300010: audio_jack_cable
+    3300012: backgroud_image
+    3300014: base
+    3300016: base 1
+    3300018: base 2
+    3300020: base 3
+    3300022: bolt
+    3300024: bolt 1
+    3300026: cable 1
+    3300028: clip
+    3300030: clip_inner
+    3300032: clip_inner 1
+    3300034: clip_outer
+    3300036: clip_outer 1
+    3300038: cup
+    3300040: cup 1
+    3300042: handle
+    3300044: hinge
+    3300046: hinge2
+    3300048: joint
+    3300050: keyboard
+    3300052: knob
+    3300054: light
+    3300056: light 1
+    3300058: liquid
+    3300060: manila_folder
+    3300062: mic
+    3300064: mic_jack 1
+    3300066: mic_jack_cable
+    3300068: microphone 1
+    3300070: mouse1
+    3300072: mouse_wheel
+    3300074: mug 1
+    3300076: pad
+    3300078: pad 1
+    3300080: paper_clip1
+    3300082: paper_clip2
+    3300084: paper_clip3
+    3300086: paper_left_1
+    3300088: paper_left_2
+    3300090: paper_left_3
+    3300092: paper_right_1
+    3300094: paper_right_2
+    3300096: paper_right_3
+    3300098: paper_right_4
+    3300100: paper_right_5
+    3300102: pCube4
+    3300104: pCube5
+    3300106: pCube6
+    3300108: pCube7
+    3300110: pCube8
+    3300112: pCube9
+    3300114: pCylinder1
+    3300116: pCylinder2
+    3300118: pCylinder3
+    3300120: pCylinder4
+    3300122: pen 1
+    3300124: phone
+    3300126: pPlane10
+    3300128: pPlane10 1
+    3300130: pPlane11
+    3300132: pPlane11 1
+    3300134: pPlane12
+    3300136: pPlane12 1
+    3300138: pPlane13
+    3300140: pPlane13 1
+    3300142: pPlane14
+    3300144: pPlane14 1
+    3300146: pPlane15
+    3300148: pPlane15 1
+    3300150: pPlane16
+    3300152: pPlane16 1
+    3300154: pPlane17
+    3300156: pPlane17 1
+    3300158: pPlane18
+    3300160: pPlane18 1
+    3300162: pPlane19
+    3300164: pPlane19 1
+    3300166: pPlane2
+    3300168: pPlane2 1
+    3300170: pPlane20
+    3300172: pPlane21
+    3300174: pPlane22
+    3300176: pPlane23
+    3300178: pPlane24
+    3300180: pPlane3
+    3300182: pPlane3 1
+    3300184: pPlane4
+    3300186: pPlane4 1
+    3300188: pPlane5
+    3300190: pPlane5 1
+    3300192: pPlane6
+    3300194: pPlane6 1
+    3300196: pPlane7
+    3300198: pPlane7 1
+    3300200: pPlane8
+    3300202: pPlane8 1
+    3300204: pPlane9
+    3300206: pPlane9 1
+    3300208: root
+    3300210: root 1
+    3300212: screen 1
+    3300214: screen 2
+    3300216: screen 3
+    3300218: screen 4
+    3300220: screen 5
+    3300222: shield2
+    3300224: speaker
+    3300226: splitter
+    3300228: stand
+    3300230: stand 1
+    3300232: stand 2
+    3300234: stem
+    3300236: stem 1
+    3300238: stem 2
+    3300240: table_top
+    3300242: table_top1
+    4300000: clip
+    4300002: pen
+    4300004: pCylinder1
+    4300006: pCylinder2
+    4300008: pCylinder3
+    4300010: pCylinder4
+    4300012: pPlane2
+    4300014: pPlane3
+    4300016: pPlane4
+    4300018: pPlane5
+    4300020: pPlane6
+    4300022: pPlane7
+    4300024: pPlane8
+    4300026: pPlane9
+    4300028: pPlane10
+    4300030: pPlane11
+    4300032: pPlane12
+    4300034: pPlane13
+    4300036: pPlane14
+    4300038: pPlane15
+    4300040: pPlane16
+    4300042: pPlane17
+    4300044: pPlane18
+    4300046: pPlane19
+    4300048: pPlane2
+    4300050: pPlane3
+    4300052: pPlane4
+    4300054: pPlane5
+    4300056: pPlane6
+    4300058: pPlane7
+    4300060: pPlane8
+    4300062: pPlane9
+    4300064: pPlane10
+    4300066: pPlane11
+    4300068: pPlane12
+    4300070: pPlane13
+    4300072: pPlane14
+    4300074: pPlane15
+    4300076: pPlane16
+    4300078: pPlane17
+    4300080: pPlane18
+    4300082: pPlane19
+    4300084: shield2
+    4300086: pPlane20
+    4300088: pPlane21
+    4300090: pPlane22
+    4300092: table_top1
+    4300094: pPlane23
+    4300096: pPlane24
+    4300098: arm_front
+    4300100: arm_back
+    4300102: bolt
+    4300104: mic
+    4300106: joint
+    4300108: pad
+    4300110: audio_jack
+    4300112: audio_jack_cable
+    4300114: mic_jack
+    4300116: mic_jack_cable
+    4300118: splitter
+    4300120: cable
+    4300122: cup
+    4300124: arm_outer
+    4300126: clip_outer
+    4300128: clip_inner
+    4300130: pad
+    4300132: cup
+    4300134: hinge
+    4300136: arm_outer
+    4300138: clip_outer
+    4300140: clip_inner
+    4300142: bolt
+    4300144: hinge2
+    4300146: paper_clip3
+    4300148: paper_clip2
+    4300150: paper_clip1
+    4300152: manila_folder
+    4300154: paper_right_5
+    4300156: paper_right_3
+    4300158: paper_right_1
+    4300160: paper_right_2
+    4300162: paper_left_1
+    4300164: paper_left_3
+    4300166: paper_right_4
+    4300168: paper_left_2
+    4300170: mug
+    4300172: handle
+    4300174: liquid
+    4300176: backgroud_image
+    4300178: table_top
+    4300180: screen
+    4300182: base
+    4300184: speaker
+    4300186: knob
+    4300188: phone
+    4300190: pCube8
+    4300192: pCube7
+    4300194: pCube6
+    4300196: pCube5
+    4300198: pCube4
+    4300200: pCube9
+    4300202: stem
+    4300204: microphone
+    4300206: screen
+    4300208: base
+    4300210: screen
+    4300212: stand
+    4300214: screen
+    4300216: stand
+    4300218: screen
+    4300220: stand
+    4300222: light
+    4300224: stem
+    4300226: root
+    4300228: base
+    4300230: light
+    4300232: stem
+    4300234: root
+    4300236: base
+    4300238: mouse_wheel
+    4300240: mouse1
+    4300242: keyboard
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
